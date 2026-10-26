@@ -5,9 +5,5 @@
     Underpinnings before surface
     &nbsp;·&nbsp;
     life first, things second
-    <br />
-    DCTO at <a href="https://playpilot.com">Playpilot</a>, Stockholm
-    &nbsp;·&nbsp;
-    Swift, TypeScript, Python
   </samp>
 </p>
